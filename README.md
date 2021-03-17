@@ -1,5 +1,5 @@
 # D4Net: De-Deformation Defect Detection Network for Non-Rigid Products with Large Patterns
-by Xuemiao Xu^, Jiaxing Chen^, Huaidong Zhang\*, and Wing~W. Y. Ng\* (^ joint 1st author, * joint corresponding author)[[paper link]()]
+by Xuemiao Xu^, Jiaxing Chen^, Huaidong Zhang\*, and Wing~W. Y. Ng\* (^ joint 1st author, * joint corresponding author)[[paper link](https://www.sciencedirect.com/science/article/abs/pii/S0020025520304710)]
 
 This implementation is written by Jiaxing Chen at the South China University of Technology.
 
