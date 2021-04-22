@@ -15,7 +15,9 @@ This implementation is written by Jiaxing Chen at the South China University of 
 
 ## LFLP Dataset
 
-Due to the influence of COVID-19, the LFLP dataset will be released after the author returns to school. [[LFLP dataset link]()]
+Due to the influence of COVID-19, the LFLP dataset will be released after the author returns to school. [[LFLP dataset link](https://drive.google.com/drive/folders/1t9TSmZiDb5mVElaqS6M9XEUV9w_BuJiF?usp=sharing)]
+
+### The testing set of LFLP is updated(2021/04/22), the training set of LFLP is coming soon.
 
 ## Trained Model
 
