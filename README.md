@@ -8,9 +8,11 @@ This implementation is written by Jiaxing Chen at the South China University of 
 @article{xu2020d4net,   
 &nbsp;&nbsp;&nbsp;&nbsp;  title={D4Net: De-Deformation Defect Detection Network for Non-Rigid Products with Large Patterns},    
 &nbsp;&nbsp;&nbsp;&nbsp;  author={Xuemiao Xu, Jiaxing Chen, Huaidong Zhang, and Wing~W. Y. Ng},    
-&nbsp;&nbsp;&nbsp;&nbsp;  journal={Information Sciences},    
-&nbsp;&nbsp;&nbsp;&nbsp;  year  = {2020},    
-&nbsp;&nbsp;&nbsp;&nbsp;  publisher={Elsevier}    
+&nbsp;&nbsp;&nbsp;&nbsp;  journal={Information Sciences},       
+&nbsp;&nbsp;&nbsp;&nbsp;  volume={547},        
+&nbsp;&nbsp;&nbsp;&nbsp;  pages={763--776},   
+&nbsp;&nbsp;&nbsp;&nbsp;  year={2021},         
+&nbsp;&nbsp;&nbsp;&nbsp;  publisher={Elsevier}       
 }
 
 ## LFLP Dataset
